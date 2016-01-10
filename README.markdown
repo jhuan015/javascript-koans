@@ -38,3 +38,6 @@ The test runner used is [Jasmine](http://jasmine.github.io/) with a customized r
 *  Douglas Crockford - for Javascript; the good bits
 
 ### [MIT Licensed](LICENSE)
+
+JH
+Completed Expect and Arrays - 20160109 - 9:21 PM
