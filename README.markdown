@@ -39,5 +39,6 @@ The test runner used is [Jasmine](http://jasmine.github.io/) with a customized r
 
 ### [MIT Licensed](LICENSE)
 
+###
 JH
-Completed Expect and Arrays - 20160109 - 9:21 PM
+Completed AboutExpect, AboutArrays, AboutFunctions, and AboutObjects.  -20160109
